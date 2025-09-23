@@ -85,12 +85,8 @@ This project involves designing, simulating, and prototyping an 80 MHz Hartley o
 
 ---
 
-## Author
 
-**[Your Name]**  
-Email: your.email@example.com  
-LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)  
 
 ---
 
-*Feel free to open issues or submit pull requests if you have suggestions or improvements!*
+
