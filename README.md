@@ -18,7 +18,7 @@ This project involves designing, simulating, and prototyping an 80 MHz Hartley o
 
 ## Block Diagram
 <!-- Replace with your block diagram image -->
-![Block Diagram](block_diagram.png)  
+![Block Diagram](Block_Diagram_Oscillator-Circuit.png)  
 *Figure 1: Hartley Oscillator Block Diagram*
 
 ---
