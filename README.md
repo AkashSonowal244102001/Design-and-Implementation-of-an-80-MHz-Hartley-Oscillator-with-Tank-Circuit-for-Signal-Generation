@@ -22,7 +22,7 @@ This project involves designing, simulating, and prototyping an 80 MHz Hartley o
   <img src="Project_Essentials/Block_Diagram_Oscillator-Circuit.png" width="750" alt="UART IP Block Diagram">
 </p>
 
-                 *Figure 1: Hartley Oscillator Block Diagram*
+                                   *Figure 1: Hartley Oscillator Block Diagram*
 
 ---
 
