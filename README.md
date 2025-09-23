@@ -27,8 +27,10 @@ This project involves designing, simulating, and prototyping an 80 MHz Hartley o
 ---
 
 ## Circuit Diagram
-![Circuit Diagram](7626e1b3-8c91-47d3-a5dd-8720e006eb38.png)  
-*Figure 2: Hartley Oscillator LTspice Schematic*
+<p align="center">
+  <img src="Project_Essentials/LT_Spice_Circuit.png" width="750" alt="UART IP Block Diagram">
+</p>  
+                                  *Figure 2: Hartley Oscillator LTspice Schematic*
 
 ---
 
