@@ -1,13 +1,13 @@
-# 📌⚙️📈 80 MHz Hartley Oscillator Design and Simulation
+# ⚙️ 80 MHz Hartley Oscillator Design and Simulation
 
 ---
 
-## Introduction
+## 📌Introduction
 This project involves designing, simulating, and prototyping an 80 MHz Hartley oscillator. The circuit uses a 2N3904 NPN bipolar junction transistor along with a tank circuit composed of inductors and capacitors to generate a stable sinusoidal waveform. The oscillator is useful for RF signal generation and other high-frequency applications.
 
 ---
 
-## Features
+## 📈Features
 - Generates a clean sinusoidal output at 80 MHz frequency  
 - Utilizes a 2N3904 NPN transistor as the amplifying device  
 - Tank circuit formed with precise inductors and capacitors for frequency control  
