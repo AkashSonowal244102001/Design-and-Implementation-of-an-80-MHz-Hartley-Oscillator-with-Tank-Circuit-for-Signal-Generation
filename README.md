@@ -30,7 +30,7 @@ This project involves designing, simulating, and prototyping an 80 MHz Hartley o
 <p align="center">
   <img src="Project_Essentials/LT_Spice_Circuit.jpg" width="750" alt="UART IP Block Diagram">
 </p>  
-                                  *Figure 2: Hartley Oscillator LTspice Schematic*
+                                       *Figure 2: Hartley Oscillator LTspice Schematic*
 
 ---
 
@@ -77,7 +77,7 @@ This project involves designing, simulating, and prototyping an 80 MHz Hartley o
   <img src="Project_Essentials/FFT.png" width="750" alt="UART IP Block Diagram">
 </p>
 
-                                                               *Figure 3: Output waveform from LTspice simulation*
+                                                  *Figure 3: Output waveform from LTspice simulation*
 
 ---
 
