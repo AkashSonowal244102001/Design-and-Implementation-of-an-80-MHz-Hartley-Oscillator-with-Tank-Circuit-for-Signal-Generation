@@ -71,7 +71,7 @@ This project involves designing, simulating, and prototyping an 80 MHz Hartley o
 
 <!-- You can add waveform screenshots here -->
 <p align="center">
-  <img src="Project_Essentials/Sinsuodial_Output.png" width="750" alt="UART IP Block Diagram">
+  <img src="Project_Essentials/Sinusodial_Output.png" width="750" alt="UART IP Block Diagram">
 </p>
 <p align="center">
   <img src="Project_Essentials/FFT.png" width="750" alt="UART IP Block Diagram">
