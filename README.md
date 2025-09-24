@@ -77,7 +77,7 @@ This project involves designing, simulating, and prototyping an 80 MHz Hartley o
   <img src="Project_Essentials/FFT.png" width="750" alt="UART IP Block Diagram">
 </p>
 
-*Figure 3: Output waveform from LTspice simulation*
+                                                               *Figure 3: Output waveform from LTspice simulation*
 
 ---
 
