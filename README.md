@@ -70,7 +70,13 @@ This project involves designing, simulating, and prototyping an 80 MHz Hartley o
 - The output voltage was consistent with expected amplitude and frequency stability, confirming design accuracy.  
 
 <!-- You can add waveform screenshots here -->
-![Simulation Result](simulation_result.png)  
+<p align="center">
+  <img src="Project_Essentials/Sinsuodial_Output.png" width="750" alt="UART IP Block Diagram">
+</p>
+<p align="center">
+  <img src="Project_Essentials/FFT.png" width="750" alt="UART IP Block Diagram">
+</p>
+
 *Figure 3: Output waveform from LTspice simulation*
 
 ---
